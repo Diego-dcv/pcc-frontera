@@ -43,12 +43,10 @@ docs/               notas conceptuales
 
 Deriva del atlas facetado de fuentes de energía (origen × portador,
 exergía por evento fundamental) y reformula el PCC v1
-*(enlace al repositorio antecedente)*.
+*([PCC_la disipación es gratuíta](https://github.com/Diego-dcv/turbulence-is-free))*.
 
-Método de trabajo: colaboración humano-IA documentada por bitácora,
-en la línea del marco SimbIAsis.
+Método de trabajo: colaboración humano-IA documentada por bitácora.
 
 ## Licencia
 
-*(por decidir — sugerencia: CC-BY-4.0 para docs, MIT para código,
-coherente con los repos previos con DOI de Zenodo)*
+*CC-BY-4.0 para docs, MIT para código*
