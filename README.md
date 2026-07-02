@@ -4,7 +4,7 @@
 viabilidad energética.**
 
 *Prometeo custodia el territorio de la energía que la naturaleza entrega
-ya concentrada — coger y llevar. Maxwell, el de la energía dispersa por
+ya concentrada — coger y llevar. Maxwell habita el de la energía dispersa por
 cuya reunión su demonio cobra un peaje que ninguna técnica elude. La
 frontera entre ambos territorios es el objeto de este trabajo: dónde pasa,
 por qué pasa por ahí, y en qué dirección puede empujarla la tecnología.*
